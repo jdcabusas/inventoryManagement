@@ -1,0 +1,16 @@
+/* index.css */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Align items starting from the top */
+  padding-top: 20px; /* Ensure a little space at the top */
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
